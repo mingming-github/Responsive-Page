@@ -6,10 +6,12 @@ $(function(){
 			$("#page").animate({left:"60%"},"slow");
 			$("#page_nav").animate({left:"0"},"slow");
 			//$("#page_nav").addClass("opac_1");
+			$('body').css({'overflow':'hidden'});
 		}else{
 	     	$("#page_nav").animate({left:"-60%"},"slow");
 			$("#page").animate({left:"0"},"slow");
 			//$("#page_nav").removeClass("opac_1");
+			$('body').css({'overflow':'visible'});
 		}
 		onoff=!onoff;
 	})
