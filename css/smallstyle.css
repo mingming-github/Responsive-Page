@@ -22,6 +22,7 @@
 #page_recommend ul li .recommend_cont .recommend_data ul li a span{font-size:0.5em;}
 
 /*导航内容*/
+#page_nav{height: 680px;}
 #page_nav .page_touxiang{text-align: center;padding: 20px;}
 #page_nav .page_touxiang a img{width: 70px;height: 70px;}
 #page_nav .page_touxiang a p{font-size: 1em;padding-top: 10px;}
