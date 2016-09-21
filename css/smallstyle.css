@@ -16,13 +16,13 @@
 
 #page_recommend ul li .recommend_cont .recommend_data ul li{margin:0px;}
 #page_recommend ul li .recommend_cont .recommend_data ul li:nth-of-type(1){width: 45px;padding: 0px;}
-#page_recommend ul li .recommend_cont .recommend_data ul li:nth-of-type(2){width:85px;padding:0px 0px 0px 0px;}
+#page_recommend ul li .recommend_cont .recommend_data ul li:nth-of-type(2){width:70px;padding:0px;}
 #page_recommend ul li .recommend_cont .recommend_data ul li:nth-of-type(3){width: 60px;padding:0px;}
 #page_recommend ul li .recommend_cont .recommend_data ul li a img{width:10px;height: 10px;}
 #page_recommend ul li .recommend_cont .recommend_data ul li a span{font-size:0.5em;}
 
 /*导航内容*/
-#page_nav{height: 680px;}
+#page_nav{height: 650px;}
 #page_nav .page_touxiang{text-align: center;padding: 20px;}
 #page_nav .page_touxiang a img{width: 70px;height: 70px;}
 #page_nav .page_touxiang a p{font-size: 1em;padding-top: 10px;}
